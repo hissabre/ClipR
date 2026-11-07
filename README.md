@@ -4,6 +4,8 @@ Book a verified barber who comes to your home.
 
 CLIPR is a two-sided marketplace: customers find, book, track and pay a mobile barber; barbers run their whole business from their phone; an admin side handles verification, disputes, fees and promotions.
 
+The look follows the **Obsidian Atelier** design system: a dark, premium interface with cobalt for actions and live tracking, brass for ratings and status, Archivo Narrow for headlines, Work Sans for reading and Space Mono for times and prices.
+
 This version is a **working demo**. Everything runs in the browser, with no server.
 
 ## What's in this folder
@@ -31,6 +33,7 @@ To update it later, upload the new `index.html` over the old one in the reposito
 - **Login code:** any phone number or email works. The verification code is **2580**.
 - **Switch sides:** the dark bar at the top switches between Customer, Barber and Admin, and between English and French.
 - **Live tracking:** in Bookings, open the upcoming appointment and tap **Mark on the way** in the demo controls box. The trip takes about 45 seconds and sends the "heading to you", "almost here" and "arrived" alerts.
+- **Style references in chat:** open a chat with a barber, tap **+** and pick cuts from their portfolio to show what you want.
 - **Start over:** Account → *Reset demo data*.
 
 Demo data is saved only in the browser you are using. Other people who open the link get their own fresh copy.
